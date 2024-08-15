@@ -1,5 +1,7 @@
 # fastai01_grizzly_bear_notebook
 
+[![Jupyter](https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg)](https://jupyter.org/) 
+
 ## Introduction
 
 This is a basic training model for classifying bear types. 
