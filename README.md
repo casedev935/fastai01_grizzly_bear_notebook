@@ -27,5 +27,7 @@ The code was made through the FASTAI course, Lesson #1 [https://course.fast.ai/L
 )
 - vision_learner(DataBlock, Pre-Trained Model, metrics=error_rate)
 
-*Pre-Trained Model use: _RESNET18_
+## Pretrained Model
+
+- RESNET-18
 *Used plot_confusion_matrix() to see confusion matrix
